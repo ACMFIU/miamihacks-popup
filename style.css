@@ -1,0 +1,27 @@
+.miami-logo {
+  display: block;
+  margin: auto;
+  height: 500px;
+}
+
+.main {
+  width: fit-content;
+  margin: 100px auto auto auto;
+}
+
+.main h1 {
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.main h3 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.main h4 {
+  text-align: center;
+}
